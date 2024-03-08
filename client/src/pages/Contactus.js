@@ -238,7 +238,7 @@ const  Contactus = () => {
                     </div>
                     <div className="ml-6 grow">
                       <p className="mb-2 font-bold dark:text-white">
-                        Bug report
+                        Bug report!
                       </p>
                       <p className="text-neutral-500 dark:text-neutral-200">
                         bugs@example.com

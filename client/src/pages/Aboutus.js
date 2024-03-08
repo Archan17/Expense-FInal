@@ -298,7 +298,7 @@ const  Aboutus = () => {
               <p className="mb-4 text-xs text-gray-100">Human Resources</p>
               <p className="mb-4 text-xs tracking-wide text-gray-400">
                 Lorizzle ipsum bling bling sit amizzle, consectetuer adipiscing
-                elit.
+                elit
               </p>
               <div className="flex items-center justify-center space-x-3">
                 <a
